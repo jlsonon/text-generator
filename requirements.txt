@@ -1,0 +1,10 @@
+# Core ML + Transformers
+torch==2.2.2
+transformers==4.41.0
+
+# Streamlit for web app
+streamlit==1.37.1
+
+# Utilities
+numpy==1.26.4
+pandas==2.2.2
